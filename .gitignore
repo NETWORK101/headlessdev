@@ -8,3 +8,9 @@ LAUNCH.md
 .DS_Store
 hero-proto/dist
 packages/*/dist
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
